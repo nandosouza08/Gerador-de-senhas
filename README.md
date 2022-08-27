@@ -1,7 +1,7 @@
 # Gerador-de-senhas
 Gerador de senhas feito em html, css e javascript.
 
-Esse Gerador faz uma combinação, de acordo com a escolha do usuário, de uma senha entre 5 à 25 caracteres, que são os seguintes: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@$%
+Esse Gerador faz uma combinação, de acordo com a escolha do usuário, de uma senha entre 5 à 25 caracteres.
 
 Segue o link para visualização no GitHub Pages https://nandosouza08.github.io/Gerador-de-senhas/
 
